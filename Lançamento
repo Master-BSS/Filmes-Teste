@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="lancamento" ,Rambo Ate o FIm
+https://d1za1dd8tvwa43.cloudfront.net/RCFServer3/ondemand/RMBOATOFM.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="lancamento" ,Dora e a CIdade PerdIda
+https://d1za1dd8tvwa43.cloudfront.net/RCFServer3/ondemand/DRAEACDEPRDA.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="lancamento" ,EspecIal de Natal Porta dos Fundos
+https://d1za1dd8tvwa43.cloudfront.net/RCFServer3/ondemand/EPSCLDNTLPRTDSFNDS.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="lancamento" ,CorgI Top Dog
+https://d1za1dd8tvwa43.cloudfront.net/RCFServer3/ondemand/CRGTOPDOG.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="lancamento" ,Ad Astra Rumo as Estrelas
+https://d1za1dd8tvwa43.cloudfront.net/RCFServer3/ondemand/ADSTRMASESTRLS.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="lancamento" ,Luccas Neto em O FIm do Natal
+https://d1za1dd8tvwa43.cloudfront.net/RCFServer3/ondemand/LCSNTOEMFMDNTL.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="lancamento" ,Centro de Trauma
+https://d1za1dd8tvwa43.cloudfront.net/RCFServer3/ondemand/CNTRDTRMA.mp4
